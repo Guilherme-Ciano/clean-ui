@@ -20,13 +20,18 @@
   <li><b>Bitcoin</b></li> <p>Até o momento, exibe a cotação diária do valor do Bitcoin. Para investidores na criptomoeda ou interessados no assunto, é algo legal sempre de se ter para uma verificação rápida. Para outros, é apenas uma informação adicional para ficar simétrico e bonitinho :)</p>
 </ul>
 
+### Instalação
+<p>Selecione a opção referente a seu sistema operacional na aba "<a href="#d">Download<a/>" e após o clique, você será redirecionado para uma página do MediaFire onde poderá baixar o programa. Após o término do download, extraia o programa do arquivo .rar e pronto!</p>
+<i><p>Caso queira que o programa inicialize junto ao PC, basta criar um link para o arquivo .exe e coloca-lo na pasta de inicialização do PC
+</p></i>
+
 ### Alterações
 <p>Por se tratar de um projetinho básico, pretendo elaborar futuras versões aprimoradas e contendo novas funções. Atualmente, se encontra na versão <span style="color: green;">(1.0.0)</span></p>
 <p>Para as pessoas que desejarem contribuir com o projeto, basta baixar os arquivos da aba "Master" e solicitar para realizar o push. Assim que for averiguado, sua contribuição será adicionada ao projeto.</p>
 
 ## Download
 
-<ul>
+<ul id="d">
   <li>🖥️ Windows: <a href="https://www.mediafire.com/file/9su28swzpsg907a/clean-ui-win32-x64.rar/file" target="_blank">Download<a></li>
   <li>🍎 Mac OS: <i>(em breve)</i></li>
   <li>🐧 Linux: <i>(em breve)</i></li>
