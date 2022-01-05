@@ -12,8 +12,8 @@ function createWindow() {
     transparent: true,
     frame: false,
   });
-  //get the path of the index.html file, go back and go on /build
-  mainWindow.loadURL("file://" + __dirname + "/build/index.html");
+  //get the path of the netlify build
+  mainWindow.loadURL("http://localhost:3000/");
   mainWindow.on("closed", function () {
     mainWindow = null;
   });
