@@ -3,8 +3,8 @@
 </center>
 
 <div style="display: flex; justify-content: center; flex-direction: row;">
-  <img style="width: 420px" src="https://user-images.githubusercontent.com/68287307/148287319-9046f1c6-aa61-489e-acbf-cafee0e237cb.png"/>
-  <img style="width: 420px"src="https://user-images.githubusercontent.com/68287307/148287951-ee54d699-04de-4483-b5bb-151e023712fa.png"/>
+  <img style="width: 410px" src="https://user-images.githubusercontent.com/68287307/148287319-9046f1c6-aa61-489e-acbf-cafee0e237cb.png"/>
+  <img style="width: 410px"src="https://user-images.githubusercontent.com/68287307/148287951-ee54d699-04de-4483-b5bb-151e023712fa.png"/>
 </div>
 
 ### Introdução 
