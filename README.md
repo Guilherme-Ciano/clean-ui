@@ -1,5 +1,3 @@
-# Clean UI
-
 <center>
   <img style="width: 1200px" src="https://user-images.githubusercontent.com/68287307/148290964-d2dedcf4-2679-4297-ae54-497a27e5d42d.png"/>
 </center>
