@@ -16,8 +16,8 @@
 <ul>
   <li><b>Tema Light & Dark</b></li> <p>Disponível nos dois padrões de cores mais comuns, para melhor se adequar ao seu papel de parede. Para realizar a troca de temas, basta clicar no horario ou em qualquer outra parte da aplicação</p>
   <li><b>Calendário</b></li> <p>Exibe o dia, mês e ano correspodente, também é acompanhado (à direita) de um marcador de dias da semana</p>
-  <li><b>Medidor de temperatura</b></li> <p>Disponível e funcional apenas para o estado de SP no momento, porém, exibe a temperatura em graus Celcios e seu ìcone se altera de acordo com o clima do dia, podendo ser, chuvoso, parcialmente nublado, ou céu limpo</p>
-  <li><b>Bitcoin</b></li> <p>Até o momento, exibe a cotação diária do valor do Bitcoin. Para investidores na criptomoeda ou interessados no assunto, é algo legal sempre de se ter para uma verificação rápida. Para outros, é apenas uma informaçõa adicional para ficar simétrico e bonitinho :)</p>
+  <li><b>Medidor de temperatura</b></li> <p>Disponível e funcional apenas para o estado de SP no momento, porém, exibe a temperatura em graus Celsios e seu ícone se altera de acordo com o clima do dia, podendo ser, chuvoso, parcialmente nublado, ou céu limpo</p>
+  <li><b>Bitcoin</b></li> <p>Até o momento, exibe a cotação diária do valor do Bitcoin. Para investidores na criptomoeda ou interessados no assunto, é algo legal sempre de se ter para uma verificação rápida. Para outros, é apenas uma informação adicional para ficar simétrico e bonitinho :)</p>
 </ul>
 
 ### Alterações
