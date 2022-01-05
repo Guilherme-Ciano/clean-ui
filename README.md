@@ -27,7 +27,7 @@
 ## Download
 
 <ul>
-  <li>Windows: </li>
-  <li>Mac OS: </li>
-  <li>Linux: </li>
+  <li>🖥️ Windows: <a href="https://www.mediafire.com/file/9su28swzpsg907a/clean-ui-win32-x64.rar/file" target="_blank">Download<a></li>
+  <li>🍎 Mac OS: </li>
+  <li>🐧 Linux: </li>
 </ul>
