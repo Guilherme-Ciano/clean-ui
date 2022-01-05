@@ -13,7 +13,7 @@ function createWindow() {
     frame: false,
   });
   //get the path of the netlify build
-  mainWindow.loadURL("http://localhost:3000/");
+  mainWindow.loadURL("https://clean-ui.netlify.app/");
   mainWindow.on("closed", function () {
     mainWindow = null;
   });
