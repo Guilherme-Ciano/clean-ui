@@ -1,8 +1,12 @@
 # Clean UI
 
-<div style="display: flex; justify-content: center">
-  <img src="https://user-images.githubusercontent.com/68287307/148287319-9046f1c6-aa61-489e-acbf-cafee0e237cb.png"/>
-  <img src="https://user-images.githubusercontent.com/68287307/148287951-ee54d699-04de-4483-b5bb-151e023712fa.png"/>
+<ul>
+  <li><b>Tema Light & Dark:</b></li> <p>Disponível nos dois padrões de cores mais comuns, para melhor se adequar ao seu papel de parede. Para realizar a troca de temas, basta clicar no horario ou em qualquer outra parte da aplicação</p>
+</ul>
+
+<div style="display: flex; justify-content: center; flex-direction: row;">
+  <img style="width: 480px" src="https://user-images.githubusercontent.com/68287307/148287319-9046f1c6-aa61-489e-acbf-cafee0e237cb.png"/>
+  <img style="width: 480px"src="https://user-images.githubusercontent.com/68287307/148287951-ee54d699-04de-4483-b5bb-151e023712fa.png"/>
 </div>
 
 ## Download
