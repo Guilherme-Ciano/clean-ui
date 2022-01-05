@@ -12,6 +12,10 @@ function createWindow() {
     transparent: true,
     frame: false,
   });
+
+  //set the icon of the taskbar
+  mainWindow.setTitle("Clean UI");
+  mainWindow.setIcon(path.join(__dirname, "assets/icon.png"));
   //get the path of the netlify build
   mainWindow.loadURL("https://clean-ui.netlify.app/");
   mainWindow.on("closed", function () {

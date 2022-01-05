@@ -16,6 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "buildToEXE": "electron-packager . --asar",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "electron": "electron ."
@@ -39,7 +40,8 @@
     ]
   },
   "devDependencies": {
-    "electron": "^16.0.5",
+    "electron": "^16.0.6",
+    "electron-packager": "^15.4.0",
     "python-shell": "^3.0.1"
   }
 }
